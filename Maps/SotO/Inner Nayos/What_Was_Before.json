@@ -1,0 +1,71 @@
+{
+  "Name": "What Was Before",
+  "Coordinates": [
+    {
+      "Name": "1. Speak with Tecla",
+      "X": 418.2,
+      "Y": 199.85,
+      "Z": 229.41
+    },
+    {
+      "Name": "2. Etched Tablet",
+      "X": 995.73,
+      "Y": 619.81,
+      "Z": 285.95
+    },
+    {
+      "Name": "3. Petulant Cutting Stone",
+      "X": 1151.44,
+      "Y": 337.16,
+      "Z": 217.56
+    },
+    {
+      "Name": "4. Dream Essence",
+      "X": 694.82,
+      "Y": 566.47,
+      "Z": 398.76
+    },
+    {
+      "Name": "5. Cursed Fabric",
+      "X": 324.44,
+      "Y": 256.83,
+      "Z": 438.01
+    },
+    {
+      "Name": "6. Intimidating Chalice",
+      "X": 19.17,
+      "Y": -169.05,
+      "Z": 369.16
+    },
+    {
+      "Name": "7. Dream Essence",
+      "X": -190.96,
+      "Y": -496.56,
+      "Z": 393.41
+    },
+    {
+      "Name": "8. Baleful Glass",
+      "X": -387.64,
+      "Y": -164.12,
+      "Z": 237.52
+    },
+    {
+      "Name": "9. Vexed Urn",
+      "X": 95.38,
+      "Y": 118.44,
+      "Z": 356.65
+    },
+    {
+      "Name": "10. Dream Essence",
+      "X": 147.26,
+      "Y": 570.86,
+      "Z": 298.65
+    },
+    {
+      "Name": "11. Return to Tecla",
+      "X": 418.23,
+      "Y": 199.5,
+      "Z": 229.41
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "Name": "Illuminating Inner Nayos",
+  "Coordinates": [
+    {
+      "Name": "1. AWC Waypoint",
+      "X": 882.28,
+      "Y": -551.35,
+      "Z": 265.78
+    },
+    {
+      "Name": "2. Forward Bivouac Waypoint",
+      "X": 345.49,
+      "Y": 176.3,
+      "Z": 229.27
+    },
+    {
+      "Name": "3. Heithors Gate",
+      "X": 913.96,
+      "Y": 273.31,
+      "Z": 229.78
+    },
+    {
+      "Name": "4. Heithors Maw",
+      "X": 940.71,
+      "Y": -59.61,
+      "Z": 233.48
+    },
+    {
+      "Name": "5. Hollow of the Covetous",
+      "X": 1193.88,
+      "Y": -263.27,
+      "Z": 239.52
+    },
+    {
+      "Name": "6. Seething Embrace",
+      "X": 822.55,
+      "Y": 18.1,
+      "Z": 240.75
+    },
+    {
+      "Name": "7. Sullen Cliffside",
+      "X": 1222.13,
+      "Y": -95.68,
+      "Z": 251.43
+    },
+    {
+      "Name": "8. The Divide",
+      "X": 818.73,
+      "Y": 120.88,
+      "Z": 270.78
+    },
+    {
+      "Name": "9. The Wailing Chasm",
+      "X": 610.32,
+      "Y": 290.74,
+      "Z": 241.14
+    },
+    {
+      "Name": "10. The Waters of Regret",
+      "X": 1008.87,
+      "Y": -95.49,
+      "Z": 219.61
+    },
+    {
+      "Name": "11. Astral Ward Camp",
+      "X": 795.66,
+      "Y": -540.79,
+      "Z": 265.26
+    },
+    {
+      "Name": "12. Mere of Everlasting Night",
+      "X": 751.47,
+      "Y": -394.29,
+      "Z": 256.3
+    },
+    {
+      "Name": "13. The Pillars of Mosyn",
+      "X": 971.56,
+      "Y": -472.96,
+      "Z": 254.16
+    },
+    {
+      "Name": "14. Tree of Many Faces",
+      "X": 1002.07,
+      "Y": -602.1,
+      "Z": 407.54
+    },
+    {
+      "Name": "15. Sky Kings Aerie",
+      "X": 716.25,
+      "Y": 568.58,
+      "Z": 398.57
+    },
+    {
+      "Name": "16. The Ascending Dream",
+      "X": 834.07,
+      "Y": 631.93,
+      "Z": 306.41
+    },
+    {
+      "Name": "17. The Pool of Whispers",
+      "X": 658.76,
+      "Y": 603.8,
+      "Z": 325.19
+    },
+    {
+      "Name": "18. Tree of Mourning",
+      "X": 456.12,
+      "Y": 639.36,
+      "Z": 344.87
+    },
+    {
+      "Name": "19. The Northern Extractor",
+      "X": 1001.13,
+      "Y": 517.59,
+      "Z": 273.95
+    },
+    {
+      "Name": "20. The Rot",
+      "X": 1204.88,
+      "Y": 456.18,
+      "Z": 216.96
+    },
+    {
+      "Name": "21. The Southern Extractor",
+      "X": 1115.01,
+      "Y": 222.15,
+      "Z": 222.79
+    },
+    {
+      "Name": "22. Lost Altar",
+      "X": 270.61,
+      "Y": -615.32,
+      "Z": 290.92
+    },
+    {
+      "Name": "23. Secondary Extractors",
+      "X": -183.23,
+      "Y": 583.54,
+      "Z": 243.36
+    },
+    {
+      "Name": "24. Eventides March",
+      "X": 90.15,
+      "Y": 567.15,
+      "Z": 268.04
+    },
+    {
+      "Name": "25. The Blighted Pillar",
+      "X": -100.19,
+      "Y": 486.02,
+      "Z": 244.78
+    },
+    {
+      "Name": "26. Temple of Charybda",
+      "X": -310.56,
+      "Y": 351.15,
+      "Z": 319.11
+    },
+    {
+      "Name": "27. Waters of the First Dream",
+      "X": -101.49,
+      "Y": 311.08,
+      "Z": 225.73
+    },
+    {
+      "Name": "28. Well of  Anguish",
+      "X": 154.1,
+      "Y": 457.78,
+      "Z": 351.02
+    },
+    {
+      "Name": "29. Mosyns Repose",
+      "X": 184.5,
+      "Y": 245.9,
+      "Z": 332.22
+    },
+    {
+      "Name": "30. Pool of Lost Dreams",
+      "X": 459.53,
+      "Y": 266.17,
+      "Z": 362.63
+    },
+    {
+      "Name": "31. Grove of the First Kryptis",
+      "X": 358.37,
+      "Y": 128.91,
+      "Z": 229.16
+    },
+    {
+      "Name": "32. Bridge of Sighs",
+      "X": 256.49,
+      "Y": -25.7,
+      "Z": 219.95
+    },
+    {
+      "Name": "33. The Queens Procession",
+      "X": -207.89,
+      "Y": 71.47,
+      "Z": 243.41
+    },
+    {
+      "Name": "34. Archway of the Fallen Heroes",
+      "X": -134.02,
+      "Y": 117.45,
+      "Z": 296.01
+    },
+    {
+      "Name": "35. The Burrows",
+      "X": -219.87,
+      "Y": -29.93,
+      "Z": 285.8
+    },
+    {
+      "Name": "36. Coliseum of the Midnight King",
+      "X": -422.54,
+      "Y": 30.32,
+      "Z": 210.45
+    },
+    {
+      "Name": "37. The Gathering Grounds",
+      "X": -155.54,
+      "Y": -79.25,
+      "Z": 257.85
+    },
+    {
+      "Name": "38. Fortress of the Founding",
+      "X": 216.28,
+      "Y": -129.26,
+      "Z": 268.64
+    },
+    {
+      "Name": "39. Isolated Grasslands",
+      "X": -160.71,
+      "Y": -496.1,
+      "Z": 395.78
+    },
+    {
+      "Name": "40. River Hideaway",
+      "X": 95.97,
+      "Y": -362.82,
+      "Z": 319.16
+    },
+    {
+      "Name": "41. Secluded Pond",
+      "X": 8.02,
+      "Y": -292.2,
+      "Z": 287.72
+    },
+    {
+      "Name": "42. The Lamented Courtyard",
+      "X": 422.66,
+      "Y": -43.15,
+      "Z": 231.15
+    },
+    {
+      "Name": "43. Path of the Ancients",
+      "X": 319.17,
+      "Y": -172.65,
+      "Z": 254.79
+    }
+  ]
+}

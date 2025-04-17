@@ -1,0 +1,119 @@
+{
+  "Name": "11. Duress",
+  "Coordinates": [
+    {
+      "Name": "start",
+      "X": 47.9,
+      "Y": -119.56,
+      "Z": 401.93
+    },
+    {
+      "Name": "talk",
+      "X": 53.93,
+      "Y": -126.32,
+      "Z": 401.93
+    },
+    {
+      "Name": "Join allies and wait chat over",
+      "X": 98.62,
+      "Y": -124.05,
+      "Z": 401.96
+    },
+    {
+      "Name": "talk to isgarren",
+      "X": 109.74,
+      "Y": -97.72,
+      "Z": 406.73
+    },
+    {
+      "Name": "join allies",
+      "X": 44.36,
+      "Y": -222.95,
+      "Z": 404.59
+    },
+    {
+      "Name": "talk to zojia",
+      "X": 19.12,
+      "Y": -160.17,
+      "Z": 401.93
+    },
+    {
+      "Name": "find friends",
+      "X": 48.1,
+      "Y": -222.66,
+      "Z": 404.59
+    },
+    {
+      "Name": "attack ",
+      "X": 49.41,
+      "Y": -133.45,
+      "Z": 401.96
+    },
+    {
+      "Name": "after the figth achievement",
+      "X": -15.74,
+      "Y": -159.35,
+      "Z": 401.93
+    },
+    {
+      "Name": "rift",
+      "X": 46.23,
+      "Y": -129.74,
+      "Z": 401.96
+    },
+    {
+      "Name": "gather",
+      "X": -29.31,
+      "Y": -0.9,
+      "Z": 12.98
+    },
+    {
+      "Name": "after the fight rift",
+      "X": -12.38,
+      "Y": 46.07,
+      "Z": 12.21
+    },
+    {
+      "Name": "port here and /sit",
+      "X": 507.88,
+      "Y": -527.9,
+      "Z": 296.58
+    },
+    {
+      "Name": "talk",
+      "X": 513.16,
+      "Y": -532.02,
+      "Z": 296.56
+    },
+    {
+      "Name": "port here and wait",
+      "X": 653.84,
+      "Y": -518.83,
+      "Z": 271.74
+    },
+    {
+      "Name": "Arina",
+      "X": 789.8,
+      "Y": -572.72,
+      "Z": 265.21
+    },
+    {
+      "Name": "gather in camp after fight",
+      "X": 795.58,
+      "Y": -570.25,
+      "Z": 265.21
+    },
+    {
+      "Name": "talk to peitha",
+      "X": 771.28,
+      "Y": -545.49,
+      "Z": 265.18
+    },
+    {
+      "Name": "finish and exit",
+      "X": 771.28,
+      "Y": -545.49,
+      "Z": 265.18
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "Name": "Missing Brood",
+  "Coordinates": [
+    {
+      "Name": "Speak with Kosmas",
+      "X": 350.63,
+      "Y": 259.97,
+      "Z": 244.79
+    },
+    {
+      "Name": "2. Close to coliseum",
+      "X": -391.52,
+      "Y": 182.79,
+      "Z": 208.32
+    },
+    {
+      "Name": "3.1 Find the Kryptis with explosives",
+      "X": -144.2,
+      "Y": -389.96,
+      "Z": 397.31
+    },
+    {
+      "Name": "3.2 Use them to free Petros",
+      "X": -391.3,
+      "Y": 182.24,
+      "Z": 208.37
+    },
+    {
+      "Name": "4. Near north extractor",
+      "X": 869.73,
+      "Y": 652.57,
+      "Z": 288.86
+    },
+    {
+      "Name": "5.1 Find the Kryptis with explosives",
+      "X": -143.91,
+      "Y": -389.88,
+      "Z": 397.22
+    },
+    {
+      "Name": "5.2 Use them to Free Syphus",
+      "X": 869.77,
+      "Y": 652.56,
+      "Z": 288.86
+    },
+    {
+      "Name": "port to Skywatch before next step",
+      "X": 869.77,
+      "Y": 652.56,
+      "Z": 288.86
+    },
+    {
+      "Name": "6. Pulled through rift",
+      "X": -143.52,
+      "Y": -625.03,
+      "Z": 319.7
+    },
+    {
+      "Name": "7.1 Find Lali's toy",
+      "X": 435.1,
+      "Y": -196.76,
+      "Z": 279.27
+    },
+    {
+      "Name": "7.2 Bring it to her",
+      "X": -143.36,
+      "Y": -625.11,
+      "Z": 319.64
+    },
+    {
+      "Name": "8. Through rift, again",
+      "X": -21.84,
+      "Y": 753.87,
+      "Z": 528.81
+    },
+    {
+      "Name": "9.1 Defeat nearby saurian",
+      "X": -65.94,
+      "Y": 653.4,
+      "Z": 540.74
+    },
+    {
+      "Name": "9.2 Bring its tooth to Cadmus",
+      "X": -21.3,
+      "Y": 753.71,
+      "Z": 528.91
+    },
+    {
+      "Name": "port to wizard tower before next step",
+      "X": -21.3,
+      "Y": 753.71,
+      "Z": 528.91
+    },
+    {
+      "Name": "10. Not Nayos",
+      "X": -234.28,
+      "Y": -166.07,
+      "Z": 385.29
+    },
+    {
+      "Name": "11.1 Find a toy for the cats",
+      "X": 4.53,
+      "Y": -264.4,
+      "Z": 500.5
+    },
+    {
+      "Name": "11.2 Return to Nemea",
+      "X": -234.27,
+      "Y": -165.81,
+      "Z": 385.29
+    },
+    {
+      "Name": "port to Amnytas before next step",
+      "X": -234.67,
+      "Y": -166.02,
+      "Z": 385.29
+    },
+    {
+      "Name": "12. Far away",
+      "X": -480.25,
+      "Y": -232.63,
+      "Z": 710.1
+    },
+    {
+      "Name": "13.1 Find the correct plant",
+      "X": 458.49,
+      "Y": -636.33,
+      "Z": 263.99
+    },
+    {
+      "Name": "13.2 Return to help cure",
+      "X": -479.98,
+      "Y": -232.27,
+      "Z": 710.1
+    },
+    {
+      "Name": "14. Felt into rift",
+      "X": 262.77,
+      "Y": -873.78,
+      "Z": 354.17
+    },
+    {
+      "Name": "15. After speaking to the ward member",
+      "X": -509.87,
+      "Y": -785.19,
+      "Z": 334.42
+    },
+    {
+      "Name": "port to Inner Nayos before next step",
+      "X": -509.87,
+      "Y": -785.19,
+      "Z": 334.42
+    },
+    {
+      "Name": "16. Return to Kosmas",
+      "X": 350.28,
+      "Y": 260.7,
+      "Z": 245.14
+    }
+  ]
+}

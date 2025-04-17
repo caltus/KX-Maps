@@ -1,0 +1,77 @@
+{
+  "Name": "Shrine Finder",
+  "Coordinates": [
+    {
+      "Name": "1. Sleeping under a Kryptis tent",
+      "X": 186.9,
+      "Y": 442.97,
+      "Z": 349.09
+    },
+    {
+      "Name": "2. Perched atop a cliff",
+      "X": 143.5,
+      "Y": 583.73,
+      "Z": 381.07
+    },
+    {
+      "Name": "3. Near the top of a ritual tower",
+      "X": -382.99,
+      "Y": 359.15,
+      "Z": 344.08
+    },
+    {
+      "Name": "4. On a branch near the mastery insight",
+      "X": -258.48,
+      "Y": -233.63,
+      "Z": 430.57
+    },
+    {
+      "Name": "5. Enjoying the waterfall",
+      "X": -2.28,
+      "Y": 234.41,
+      "Z": 205.16
+    },
+    {
+      "Name": "6. Hanging outside a door",
+      "X": -223.95,
+      "Y": -9.55,
+      "Z": 254.37
+    },
+    {
+      "Name": "7. In Stormcarved Hollows",
+      "X": 395.43,
+      "Y": -132.01,
+      "Z": 249.65
+    },
+    {
+      "Name": "8. Above the Wailing Chasm",
+      "X": 532.94,
+      "Y": 226.96,
+      "Z": 364.46
+    },
+	{
+      "Name": "9. Near a rock and a pillar",
+      "X": 289.62,
+      "Y": 237.31,
+      "Z": 247.75
+    },
+    {
+      "Name": "10. Hiding on top of the Forstress",
+      "X": 54.63,
+      "Y": -216.25,
+      "Z": 359.71
+    },
+    {
+      "Name": "11. Admiring the staircase",
+      "X": 51.95,
+      "Y": 394.02,
+      "Z": 256.55
+    },
+    {
+      "Name": "12. Overlooking where Eparch citadel",
+      "X": -364.58,
+      "Y": 143.68,
+      "Z": 187.43
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Name": "Inner Nayos meta",
+  "Coordinates": [
+    {
+      "Name": "Northen Beacon",
+      "X": 478.82,
+      "Y": 484.71,
+      "Z": 344.57
+    },
+    {
+      "Name": "Southen Beacon",
+      "X": 727.36,
+      "Y": -496.42,
+      "Z": 270.17
+    },
+    {
+      "Name": "Mini Beacon",
+      "X": 944.27,
+      "Y": -431.88,
+      "Z": 257.64
+    },
+    {
+      "Name": "mini beacon",
+      "X": 886.33,
+      "Y": -195.01,
+      "Z": 233.57
+    },
+    {
+      "Name": "Gate",
+      "X": 887.41,
+      "Y": 303.66,
+      "Z": 234.09
+    },
+    {
+      "Name": "Mini Beacon",
+      "X": 708.56,
+      "Y": 204.4,
+      "Z": 277.49
+    }
+  ]
+}

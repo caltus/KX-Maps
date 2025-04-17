@@ -1,0 +1,24 @@
+{
+  "Name": "Inner Nayos Vistas",
+  "Author": "Severus",
+  "Coordinates": [
+    {
+      "Name": "Memory's Hollow",
+      "X": 932.75,
+      "Y": -551.04,
+      "Z": 387.8
+    },
+    {
+      "Name": "Heitor's Dominion",
+      "X": 1020.75,
+      "Y": -131.85,
+      "Z": 233.36
+    },
+    {
+      "Name": "The Nothern Extractor",
+      "X": 946.42,
+      "Y": 552.82,
+      "Z": 299.81
+    },
+  ]
+}
