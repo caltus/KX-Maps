@@ -1,0 +1,126 @@
+{
+  "Name": "Inner Nayos Points of Interest",
+  "Author": "Severus",
+  "Coordinates": [
+    {
+      "Name": "Astral Ward Camp",
+      "X": 791.63,
+      "Y": -594.34,
+      "Z": 265.21
+    },
+    {
+      "Name": "Tree of Many Faces",
+      "X": 993.37,
+      "Y": -587.92,
+      "Z": 366.69
+    },
+    {
+      "Name": "The Pillars of Mosyn",
+      "X": 940.46,
+      "Y": -461.79,
+      "Z": 253.28
+    },
+    {
+      "Name": "Mere of Everlasting Night",
+      "X": 779.24,
+      "Y": -399.24,
+      "Z": 237.87
+    },
+    {
+      "Name": "Hollow of the Covetous",
+      "X": 1167.76,
+      "Y": -238.56,
+      "Z": 237.08
+    },
+    {
+      "Name": "The Waters of Regret",
+      "X": 995.77,
+      "Y": -138.77,
+      "Z": 214.73
+    },
+    {
+      "Name": "Heitor's Maw",
+      "X": 945.06,
+      "Y": -47.66,
+      "Z": 233.28
+    },
+    {
+      "Name": "Seething Embrace",
+      "X": 807.68,
+      "Y": 0.66,
+      "Z": 238.54
+    },
+    {
+      "Name": "The Divide",
+      "X": 837.65,
+      "Y": 166.96,
+      "Z": 253.93
+    },
+    {
+      "Name": "The Southern Extractor",
+      "X": 1129.42,
+      "Y": 183.33,
+      "Z": 210.91
+    },
+    {
+      "Name": "Sullen Cliffside",
+      "X": 1237.33,
+      "Y": -92.23,
+      "Z": 289.08
+    },
+    {
+      "Name": "The Wailing Chasm",
+      "X": 602.9,
+      "Y": 299.19,
+      "Z": 242.56
+    },
+    {
+      "Name": "Tree of Mourning",
+      "X": 454.88,
+      "Y": 612.8,
+      "Z": 338.88
+    },
+    {
+      "Name": "The Pool of Whispers",
+      "X": 637.78,
+      "Y": 578.79,
+      "Z": 319.56
+    },
+    {
+      "Name": "The Rot",
+      "X": 1183.35,
+      "Y": 444.1,
+      "Z": 211.01
+    },
+    {
+      "Name": "Heitor's Gate (NEED EVENT - Road to Heitor Meta Event)",
+      "X": 800.69,
+      "Y": 294.8,
+      "Z": 233.69
+    },
+    {
+      "Name": "The Northern Extractor",
+      "X": 1009.39,
+      "Y": 512.24,
+      "Z": 273.98
+    },
+    {
+      "Name": "The Ascending Dream",
+      "X": 834.04,
+      "Y": 653.87,
+      "Z": 300.75
+    },
+    {
+      "Name": "Sky King's Aerie",
+      "X": 726.74,
+      "Y": 542.57,
+      "Z": 385.82
+    },
+    {
+      "Name": "Lost Altar",
+      "X": 203.28,
+      "Y": -630.01,
+      "Z": 287.33
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "Name": "inner nayos pt 2",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "JokA666",
+  "LastUpdated": "2025-08-29T11:36:27.3189091Z",
+  "StartGameMapId": 1526,
+  "Coordinates": [
+    {
+      "Name": "MP + Rich Vein",
+      "TargetMapId": 1526,
+      "X": 37.48,
+      "Y": 143.8,
+      "Z": 505.61
+    },
+    {
+      "Name": "mp 2",
+      "TargetMapId": 1526,
+      "X": -376.84,
+      "Y": -195.72,
+      "Z": 396.13
+    },
+    {
+      "Name": "grt arcance chest",
+      "TargetMapId": 1526,
+      "X": -216.91,
+      "Y": -84.95,
+      "Z": 369.85
+    },
+    {
+      "Name": "vista ",
+      "TargetMapId": 1526,
+      "X": -253.19,
+      "Y": -92.95,
+      "Z": 313.16
+    },
+    {
+      "Name": "poi pool of lost dreams",
+      "TargetMapId": 1526,
+      "X": 448.77,
+      "Y": 291.27,
+      "Z": 357.86
+    },
+    {
+      "Name": "VIsta",
+      "TargetMapId": 1526,
+      "X": 37.07,
+      "Y": 310.44,
+      "Z": 302.64
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -66.46,
+      "Y": 299.59,
+      "Z": 224.62
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -122.62,
+      "Y": 479.84,
+      "Z": 283.55
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": 136.75,
+      "Y": 558.83,
+      "Z": 298.72
+    },
+    {
+      "Name": "vista",
+      "TargetMapId": 1526,
+      "X": 61.62,
+      "Y": 633.84,
+      "Z": 332.45
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -170.91,
+      "Y": 579.68,
+      "Z": 243.85
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -310.42,
+      "Y": 346.06,
+      "Z": 294.88
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": 377.68,
+      "Y": 5.77,
+      "Z": 243.36
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": 345.8,
+      "Y": -184.75,
+      "Z": 302.31
+    },
+    {
+      "Name": "lsr arcance chest",
+      "TargetMapId": 1526,
+      "X": 240.68,
+      "Y": -262.58,
+      "Z": 306.98
+    },
+    {
+      "Name": "transform to get next poi",
+      "TargetMapId": 1526,
+      "X": 225.53,
+      "Y": -253.56,
+      "Z": 307.93
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": 151.03,
+      "Y": -170.39,
+      "Z": 275.72
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": 107.17,
+      "Y": -364.98,
+      "Z": 336.6
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -69.96,
+      "Y": -348.67,
+      "Z": 299.97
+    },
+    {
+      "Name": "lsr arcane chest",
+      "TargetMapId": 1526,
+      "X": -101.33,
+      "Y": -348.67,
+      "Z": 334.89
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -149.6,
+      "Y": -487.44,
+      "Z": 392.83
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -132.47,
+      "Y": -94.25,
+      "Z": 276.37
+    },
+    {
+      "Name": "poi",
+      "TargetMapId": 1526,
+      "X": -221.63,
+      "Y": 71.56,
+      "Z": 269.93
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -698.94,
+      "Y": 34.82,
+      "Z": 479.66
+    },
+    {
+      "Name": "after event poi 2",
+      "TargetMapId": 1526,
+      "X": -780.14,
+      "Y": 52.13,
+      "Z": 285.99
+    },
+    {
+      "Name": "after event vista",
+      "TargetMapId": 1526,
+      "X": -740.42,
+      "Y": 204.39,
+      "Z": 258.62
+    },
+    {
+      "Name": "after veent MP",
+      "TargetMapId": 1526,
+      "X": -983.13,
+      "Y": 50.06,
+      "Z": 395.17
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -935.2,
+      "Y": -61.66,
+      "Z": 264.4
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -961.23,
+      "Y": -121.78,
+      "Z": 199.87
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -1043.5,
+      "Y": 46.38,
+      "Z": 190.51
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -1108.79,
+      "Y": 17.71,
+      "Z": 146.81
+    },
+    {
+      "Name": "aftr event poi",
+      "TargetMapId": 1526,
+      "X": -936.67,
+      "Y": 224.33,
+      "Z": 231.68
+    },
+    {
+      "Name": "after event poi",
+      "TargetMapId": 1526,
+      "X": -974.15,
+      "Y": 267.51,
+      "Z": 170.4
+    }
+  ]
+}
