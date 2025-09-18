@@ -1,0 +1,122 @@
+{
+  "Name": "11. Battle's Eye",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-12T12:20:51.8459562Z",
+  "StartGameMapId": 1554,
+  "Coordinates": [
+    {
+      "Name": "Start @ Lowland Shore",
+      "TargetMapId": 1554,
+      "X": 693.21,
+      "Y": -133.19,
+      "Z": 266.37
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 658.3,
+      "Y": -54.94,
+      "Z": 264.06
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 637.07,
+      "Y": -25.93,
+      "Z": 264.34
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 704.98,
+      "Y": 14.42,
+      "Z": 264.92
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 643.74,
+      "Y": -20.9,
+      "Z": 263.92
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 610.61,
+      "Y": 53.33,
+      "Z": 267.33
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 637.86,
+      "Y": -23.76,
+      "Z": 264.37
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 658.88,
+      "Y": 34.97,
+      "Z": 266.34
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 604.75,
+      "Y": 12.45,
+      "Z": 266.23
+    },
+    {
+      "Name": "port after dancing and fighting",
+      "TargetMapId": 1554,
+      "X": 674.01,
+      "Y": 146.52,
+      "Z": 267.56
+    },
+    {
+      "Name": "port after the crap talk",
+      "TargetMapId": 1554,
+      "X": 597.45,
+      "Y": 158.45,
+      "Z": 267.13
+    },
+    {
+      "Name": "Port here for achievement",
+      "TargetMapId": 1554,
+      "X": 588.0,
+      "Y": 125.97,
+      "Z": 282.79
+    },
+    {
+      "Name": "Port here for achievement",
+      "TargetMapId": 1554,
+      "X": 712.33,
+      "Y": 118.01,
+      "Z": 267.33
+    },
+    {
+      "Name": "Port here for achievement",
+      "TargetMapId": 1554,
+      "X": 649.24,
+      "Y": -11.44,
+      "Z": 263.07
+    },
+    {
+      "Name": "port here use the dance move",
+      "TargetMapId": 1554,
+      "X": 673.74,
+      "Y": 7.38,
+      "Z": 262.95
+    },
+    {
+      "Name": "END",
+      "TargetMapId": 1554,
+      "X": 673.74,
+      "Y": 7.38,
+      "Z": 262.95
+    }
+  ]
+}

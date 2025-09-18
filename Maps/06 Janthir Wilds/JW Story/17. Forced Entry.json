@@ -1,0 +1,178 @@
+{
+  "Name": "17. Forced Entry",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-15T06:02:17.8301455Z",
+  "StartGameMapId": -1,
+  "Coordinates": [
+    {
+      "Name": "Start @ Mistburned",
+      "TargetMapId": -1,
+      "X": -320.13,
+      "Y": 0.65,
+      "Z": 105.07
+    },
+    {
+      "Name": "kill all!",
+      "TargetMapId": -1,
+      "X": -287.94,
+      "Y": -1.26,
+      "Z": 105.02
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -205.97,
+      "Y": 0.52,
+      "Z": 121.55
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -640.79,
+      "Y": -6.25,
+      "Z": 119.9
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -683.7,
+      "Y": -117.12,
+      "Z": 115.56
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -738.69,
+      "Y": -121.74,
+      "Z": 115.56
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -723.79,
+      "Y": -169.59,
+      "Z": 115.57
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -725.5,
+      "Y": -162.77,
+      "Z": 116.05
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -767.69,
+      "Y": -145.57,
+      "Z": 115.81
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -778.0,
+      "Y": -142.38,
+      "Z": 115.56
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -796.97,
+      "Y": -125.39,
+      "Z": 116.38
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -764.99,
+      "Y": -63.44,
+      "Z": 115.57
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -760.92,
+      "Y": -63.02,
+      "Z": 115.56
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -760.22,
+      "Y": -99.66,
+      "Z": 115.56
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": -1,
+      "X": -764.52,
+      "Y": -106.74,
+      "Z": 115.56
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -639.96,
+      "Y": 9.67,
+      "Z": 119.9
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -639.86,
+      "Y": 46.05,
+      "Z": 114.66
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -601.12,
+      "Y": 15.66,
+      "Z": 114.66
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -627.99,
+      "Y": -32.47,
+      "Z": 116.08
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -652.9,
+      "Y": -14.18,
+      "Z": 119.9
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -671.73,
+      "Y": 13.24,
+      "Z": 119.96
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -694.74,
+      "Y": -12.47,
+      "Z": 120.0
+    },
+    {
+      "Name": "port",
+      "TargetMapId": -1,
+      "X": -694.91,
+      "Y": 14.37,
+      "Z": 119.99
+    },
+    {
+      "Name": "END!",
+      "TargetMapId": -1,
+      "X": -673.67,
+      "Y": 2.52,
+      "Z": 119.96
+    }
+  ]
+}

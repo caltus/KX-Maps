@@ -1,0 +1,395 @@
+{
+  "Name": "13. Balrior Peak",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-12T13:00:32.4369943Z",
+  "StartGameMapId": 1554,
+  "Coordinates": [
+    {
+      "Name": "Start @ Janthir Syntri",
+      "TargetMapId": 1554,
+      "X": -1017.93,
+      "Y": 824.11,
+      "Z": 100.1
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": -237.39,
+      "Y": -350.34,
+      "Z": 125.66
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": -206.56,
+      "Y": -154.85,
+      "Z": 179.88
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": -91.69,
+      "Y": -90.29,
+      "Z": 236.59
+    },
+    {
+      "Name": "setup",
+      "TargetMapId": 1554,
+      "X": -34.6,
+      "Y": -107.52,
+      "Z": 236.81
+    },
+    {
+      "Name": "setup",
+      "TargetMapId": 1554,
+      "X": -47.13,
+      "Y": -112.3,
+      "Z": 236.59
+    },
+    {
+      "Name": "setup",
+      "TargetMapId": 1554,
+      "X": -93.93,
+      "Y": -112.45,
+      "Z": 237.1
+    },
+    {
+      "Name": "setup",
+      "TargetMapId": 1554,
+      "X": -112.25,
+      "Y": -90.17,
+      "Z": 236.59
+    },
+    {
+      "Name": "warclaw sniff",
+      "TargetMapId": 1554,
+      "X": 170.95,
+      "Y": -227.85,
+      "Z": 144.03
+    },
+    {
+      "Name": "warclaw sniff",
+      "TargetMapId": 1554,
+      "X": 181.12,
+      "Y": -268.1,
+      "Z": 143.01
+    },
+    {
+      "Name": "warclaw sniff",
+      "TargetMapId": 1554,
+      "X": 112.03,
+      "Y": -249.13,
+      "Z": 160.35
+    },
+    {
+      "Name": "warclaw sniff",
+      "TargetMapId": 1554,
+      "X": 138.3,
+      "Y": -314.48,
+      "Z": 138.39
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1554,
+      "X": 160.64,
+      "Y": -257.68,
+      "Z": 144.03
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1554,
+      "X": 419.01,
+      "Y": -262.98,
+      "Z": 95.23
+    },
+    {
+      "Name": "portal",
+      "TargetMapId": 1554,
+      "X": 426.92,
+      "Y": -183.41,
+      "Z": 95.16
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": -417.33,
+      "Y": 235.48,
+      "Z": 165.43
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1554,
+      "X": -328.15,
+      "Y": 394.56,
+      "Z": 170.43
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": -368.72,
+      "Y": 429.36,
+      "Z": 170.42
+    },
+    {
+      "Name": "warclaw chain",
+      "TargetMapId": 1554,
+      "X": -262.96,
+      "Y": 470.69,
+      "Z": 171.79
+    },
+    {
+      "Name": "warclaw sniff",
+      "TargetMapId": 1554,
+      "X": 49.23,
+      "Y": 482.28,
+      "Z": 258.6
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 40.27,
+      "Y": 531.48,
+      "Z": 258.85
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 33.65,
+      "Y": 447.57,
+      "Z": 261.53
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1554,
+      "X": 49.76,
+      "Y": 484.56,
+      "Z": 258.63
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 172.35,
+      "Y": 511.76,
+      "Z": 307.02
+    },
+    {
+      "Name": "use warclaw chain",
+      "TargetMapId": 1554,
+      "X": 246.59,
+      "Y": 418.26,
+      "Z": 332.11
+    },
+    {
+      "Name": "use heart",
+      "TargetMapId": 1554,
+      "X": 240.58,
+      "Y": 265.83,
+      "Z": 332.09
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1554,
+      "X": 219.04,
+      "Y": 339.94,
+      "Z": 332.24
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 252.36,
+      "Y": 265.55,
+      "Z": 332.08
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 256.04,
+      "Y": 319.5,
+      "Z": 331.87
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 243.29,
+      "Y": 272.9,
+      "Z": 332.11
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 157.74,
+      "Y": 235.32,
+      "Z": 332.1
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 238.14,
+      "Y": 268.97,
+      "Z": 332.11
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 146.55,
+      "Y": 350.75,
+      "Z": 332.11
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 252.07,
+      "Y": 266.43,
+      "Z": 332.11
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 255.38,
+      "Y": 317.92,
+      "Z": 331.99
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 245.1,
+      "Y": 256.4,
+      "Z": 332.1
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 154.37,
+      "Y": 230.62,
+      "Z": 331.96
+    },
+    {
+      "Name": "pick",
+      "TargetMapId": 1554,
+      "X": 235.07,
+      "Y": 269.32,
+      "Z": 332.11
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 146.35,
+      "Y": 350.48,
+      "Z": 332.11
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 251.82,
+      "Y": 283.64,
+      "Z": 332.1
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 204.38,
+      "Y": 297.31,
+      "Z": 332.11
+    },
+    {
+      "Name": "exit",
+      "TargetMapId": 1554,
+      "X": 244.14,
+      "Y": 395.44,
+      "Z": 332.87
+    },
+    {
+      "Name": "port @ lowland shores",
+      "TargetMapId": 1554,
+      "X": 700.66,
+      "Y": -123.8,
+      "Z": 264.3
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 656.52,
+      "Y": -15.48,
+      "Z": 262.79
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 629.47,
+      "Y": 54.12,
+      "Z": 267.48
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 670.33,
+      "Y": 138.83,
+      "Z": 267.57
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 672.38,
+      "Y": 136.49,
+      "Z": 267.47
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1554,
+      "X": 679.67,
+      "Y": 136.96,
+      "Z": 267.56
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 679.08,
+      "Y": 137.92,
+      "Z": 267.56
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 667.35,
+      "Y": 150.13,
+      "Z": 267.56
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 624.12,
+      "Y": 59.13,
+      "Z": 268.02
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 638.14,
+      "Y": 53.41,
+      "Z": 267.71
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 553.21,
+      "Y": 98.77,
+      "Z": 267.2
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1554,
+      "X": 559.81,
+      "Y": 113.9,
+      "Z": 267.2
+    },
+    {
+      "Name": "END!",
+      "TargetMapId": 1554,
+      "X": 559.81,
+      "Y": 113.9,
+      "Z": 267.2
+    }
+  ]
+}

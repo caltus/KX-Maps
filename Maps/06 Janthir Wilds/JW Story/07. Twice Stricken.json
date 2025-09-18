@@ -1,0 +1,311 @@
+{
+  "Name": "7. Twice Stricken",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-09T04:27:32.4609319Z",
+  "StartGameMapId": 1544,
+  "Coordinates": [
+    {
+      "Name": "start",
+      "TargetMapId": 1544,
+      "X": 861.5,
+      "Y": 230.91,
+      "Z": 2.29
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1544,
+      "X": 884.65,
+      "Y": 245.1,
+      "Z": 2.48
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1544,
+      "X": 850.72,
+      "Y": 335.37,
+      "Z": 0.92
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1544,
+      "X": 813.88,
+      "Y": 392.54,
+      "Z": 0.56
+    },
+    {
+      "Name": "port here",
+      "TargetMapId": 1544,
+      "X": 603.5,
+      "Y": 513.25,
+      "Z": 0.34
+    },
+    {
+      "Name": "Waiting till trigger plant rod",
+      "TargetMapId": 1544,
+      "X": 654.23,
+      "Y": 537.48,
+      "Z": 0.5
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1544,
+      "X": 576.6,
+      "Y": 451.23,
+      "Z": 0.57
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1544,
+      "X": 549.44,
+      "Y": 594.46,
+      "Z": 0.83
+    },
+    {
+      "Name": "Warclaw chain 1",
+      "TargetMapId": 1544,
+      "X": 589.94,
+      "Y": 568.41,
+      "Z": 1.16
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1544,
+      "X": 580.93,
+      "Y": 612.04,
+      "Z": 7.81
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1544,
+      "X": 530.37,
+      "Y": 628.92,
+      "Z": 7.59
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1544,
+      "X": 507.86,
+      "Y": 684.42,
+      "Z": 2.54
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1544,
+      "X": 577.16,
+      "Y": 680.79,
+      "Z": -0.25
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1544,
+      "X": 632.68,
+      "Y": 665.43,
+      "Z": 0.85
+    },
+    {
+      "Name": "7",
+      "TargetMapId": 1544,
+      "X": 645.99,
+      "Y": 629.23,
+      "Z": 14.72
+    },
+    {
+      "Name": "8",
+      "TargetMapId": 1544,
+      "X": 625.22,
+      "Y": 617.09,
+      "Z": 18.95
+    },
+    {
+      "Name": "9",
+      "TargetMapId": 1544,
+      "X": 589.59,
+      "Y": 569.83,
+      "Z": 1.03
+    },
+    { 
+      "Name": "Achievement defend plant rod",
+      "TargetMapId": 1544,
+      "X": 654.23,
+      "Y": 537.48,
+      "Z": 0.5
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1544,
+      "X": 576.6,
+      "Y": 451.23,
+      "Z": 0.57
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1544,
+      "X": 549.44,
+      "Y": 594.46,
+      "Z": 0.83
+    },
+    {
+      "Name": "Warclaw chain 1",
+      "TargetMapId": 1544,
+      "X": 589.94,
+      "Y": 568.41,
+      "Z": 1.16
+    },
+    {
+      "Name": "2",
+      "TargetMapId": 1544,
+      "X": 580.93,
+      "Y": 612.04,
+      "Z": 7.81
+    },
+    {
+      "Name": "3",
+      "TargetMapId": 1544,
+      "X": 530.37,
+      "Y": 628.92,
+      "Z": 7.59
+    },
+    {
+      "Name": "4",
+      "TargetMapId": 1544,
+      "X": 507.86,
+      "Y": 684.42,
+      "Z": 2.54
+    },
+    {
+      "Name": "5",
+      "TargetMapId": 1544,
+      "X": 577.16,
+      "Y": 680.79,
+      "Z": -0.25
+    },
+    {
+      "Name": "6",
+      "TargetMapId": 1544,
+      "X": 632.68,
+      "Y": 665.43,
+      "Z": 0.85
+    },
+    {
+      "Name": "7",
+      "TargetMapId": 1544,
+      "X": 645.99,
+      "Y": 629.23,
+      "Z": 14.72
+    },
+    {
+      "Name": "8",
+      "TargetMapId": 1544,
+      "X": 625.22,
+      "Y": 617.09,
+      "Z": 18.95
+    },
+    {
+      "Name": "9",
+      "TargetMapId": 1544,
+      "X": 589.59,
+      "Y": 569.83,
+      "Z": 1.03
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1544,
+      "X": 648.32,
+      "Y": 532.67,
+      "Z": -0.11
+    },
+    {
+      "Name": "kill",
+      "TargetMapId": 1544,
+      "X": 616.6,
+      "Y": 528.63,
+      "Z": -0.54
+    },
+    {
+      "Name": "kill",
+      "TargetMapId": 1544,
+      "X": 579.09,
+      "Y": 571.15,
+      "Z": 0.49
+    },
+    {
+      "Name": "kill",
+      "TargetMapId": 1544,
+      "X": 633.19,
+      "Y": 481.85,
+      "Z": 0.29
+    },
+    {
+      "Name": "kill",
+      "TargetMapId": 1544,
+      "X": 566.76,
+      "Y": 491.04,
+      "Z": 0.58
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1544,
+      "X": 606.82,
+      "Y": 650.73,
+      "Z": 65.84
+    },
+    {
+      "Name": "escape",
+      "TargetMapId": 1544,
+      "X": 645.99,
+      "Y": 629.23,
+      "Z": 14.72
+    },
+    {
+      "Name": "Open HOMESTEAD!",
+      "TargetMapId": 1544,
+      "X": 140.69,
+      "Y": -137.67,
+      "Z": 19.8
+    },
+    {
+      "Name": "grab",
+      "TargetMapId": 1544,
+      "X": 137.16,
+      "Y": -129.56,
+      "Z": 19.72
+    },
+    {
+      "Name": "save",
+      "TargetMapId": 1544,
+      "X": 143.15,
+      "Y": -138.05,
+      "Z": 19.78
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1544,
+      "X": 137.51,
+      "Y": -144.1,
+      "Z": 19.78
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1544,
+      "X": 136.23,
+      "Y": -156.29,
+      "Z": 18.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1544,
+      "X": 141.98,
+      "Y": -155.93,
+      "Z": 18.41
+    },
+    {
+      "Name": "END!",
+      "TargetMapId": 1544,
+      "X": 141.98,
+      "Y": -155.93,
+      "Z": 18.41
+    }
+  ]
+}

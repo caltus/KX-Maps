@@ -1,0 +1,353 @@
+{
+  "Name": "5. Strangers among Lands",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-05T18:34:24.3677341Z",
+  "StartGameMapId": 1555,
+  "Coordinates": [
+    {
+      "Name": "Lion Arch start",
+      "TargetMapId": 1555,
+      "X": 572.69,
+      "Y": 218.11,
+      "Z": 28.02
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 598.62,
+      "Y": 224.27,
+      "Z": 31.52
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1555,
+      "X": 635.04,
+      "Y": 153.26,
+      "Z": 38.89
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1555,
+      "X": 640.2,
+      "Y": 159.05,
+      "Z": 45.47
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1555,
+      "X": 627.17,
+      "Y": 166.3,
+      "Z": 53.37
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1555,
+      "X": 621.15,
+      "Y": 158.49,
+      "Z": 82.6
+    },
+    {
+      "Name": "Achievement",
+      "TargetMapId": 1555,
+      "X": 620.26,
+      "Y": 153.73,
+      "Z": 82.6
+    },
+    {
+      "Name": "Talk",
+      "TargetMapId": 1555,
+      "X": 642.46,
+      "Y": 258.37,
+      "Z": 38.92
+    },
+    {
+      "Name": "stand here",
+      "TargetMapId": 1555,
+      "X": 646.25,
+      "Y": 258.92,
+      "Z": 38.39
+    },
+    {
+      "Name": "stand back!",
+      "TargetMapId": 1555,
+      "X": 643.32,
+      "Y": 257.61,
+      "Z": 39.64
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 658.47,
+      "Y": 264.45,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 629.32,
+      "Y": 236.97,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 631.38,
+      "Y": 243.08,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 651.92,
+      "Y": 244.53,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 659.63,
+      "Y": 244.88,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 659.91,
+      "Y": 238.81,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 649.63,
+      "Y": 268.62,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 663.89,
+      "Y": 267.52,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 668.44,
+      "Y": 234.45,
+      "Z": 38.4
+    },
+    {
+      "Name": "stand!",
+      "TargetMapId": 1555,
+      "X": 644.37,
+      "Y": 257.73,
+      "Z": 38.42
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 635.29,
+      "Y": 264.52,
+      "Z": 38.38
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 642.89,
+      "Y": 273.07,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 669.67,
+      "Y": 268.08,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 670.32,
+      "Y": 254.83,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 667.29,
+      "Y": 228.13,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 657.0,
+      "Y": 246.25,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 624.59,
+      "Y": 232.17,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": 652.58,
+      "Y": 221.96,
+      "Z": 38.64
+    },
+    {
+      "Name": "END!",
+      "TargetMapId": 1555,
+      "X": 637.22,
+      "Y": 214.1,
+      "Z": 38.64
+    },
+    {
+      "Name": "Lowland! talk",
+      "TargetMapId": 1555,
+      "X": 623.43,
+      "Y": 59.86,
+      "Z": 267.98
+    },
+    {
+      "Name": "Instance entry",
+      "TargetMapId": 1555,
+      "X": 851.68,
+      "Y": 733.7,
+      "Z": 1.64
+    },
+    {
+      "Name": "Examine",
+      "TargetMapId": 1555,
+      "X": -327.14,
+      "Y": -854.15,
+      "Z": 58.53
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1555,
+      "X": -848.86,
+      "Y": -895.75,
+      "Z": 12.12
+    },
+    {
+      "Name": "take",
+      "TargetMapId": 1555,
+      "X": -912.49,
+      "Y": -791.16,
+      "Z": 14.04
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1555,
+      "X": -944.42,
+      "Y": -909.91,
+      "Z": 13.57
+    },
+    {
+      "Name": "take",
+      "TargetMapId": 1555,
+      "X": -911.07,
+      "Y": -793.28,
+      "Z": 13.72
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1555,
+      "X": -864.68,
+      "Y": -817.77,
+      "Z": 14.89
+    },
+    {
+      "Name": "take",
+      "TargetMapId": 1555,
+      "X": -912.01,
+      "Y": -793.36,
+      "Z": 13.62
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1555,
+      "X": -944.27,
+      "Y": -908.78,
+      "Z": 13.42
+    },
+    {
+      "Name": "take",
+      "TargetMapId": 1555,
+      "X": -915.79,
+      "Y": -792.7,
+      "Z": 13.6
+    },
+    {
+      "Name": "plkant",
+      "TargetMapId": 1555,
+      "X": -874.85,
+      "Y": -925.14,
+      "Z": 13.35
+    },
+    {
+      "Name": "take",
+      "TargetMapId": 1555,
+      "X": -912.96,
+      "Y": -790.09,
+      "Z": 14.24
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1555,
+      "X": -836.16,
+      "Y": -887.36,
+      "Z": 13.33
+    },
+    {
+      "Name": "FIGHT",
+      "TargetMapId": 1555,
+      "X": -888.84,
+      "Y": -859.25,
+      "Z": 12.61
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": -879.21,
+      "Y": -827.49,
+      "Z": 12.31
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": -893.9,
+      "Y": -819.12,
+      "Z": 12.24
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1555,
+      "X": -880.67,
+      "Y": -825.41,
+      "Z": 12.41
+    },
+    {
+      "Name": "talk for fun!",
+      "TargetMapId": 1555,
+      "X": -884.35,
+      "Y": -821.33,
+      "Z": 12.51
+    },
+    {
+      "Name": "END CHAPTER!",
+      "TargetMapId": 1555,
+      "X": -783.43,
+      "Y": -900.21,
+      "Z": 25.59
+    }
+  ]
+}

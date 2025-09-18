@@ -1,0 +1,87 @@
+{
+  "Name": "10. Sorrow in the These Halls",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-11T19:35:52.2945549Z",
+  "StartGameMapId": 1547,
+  "Coordinates": [
+    {
+      "Name": "Start @ Lowland shore",
+      "TargetMapId": 1547,
+      "X": 613.21,
+      "Y": 7.37,
+      "Z": 265.87
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1547,
+      "X": 605.98,
+      "Y": -40.88,
+      "Z": 265.26
+    },
+    {
+      "Name": "read",
+      "TargetMapId": 1547,
+      "X": 588.83,
+      "Y": -63.19,
+      "Z": 272.92
+    },
+    {
+      "Name": "Talk to all npc!",
+      "TargetMapId": 1547,
+      "X": 608.02,
+      "Y": -40.58,
+      "Z": 265.27
+    },
+    {
+      "Name": "use",
+      "TargetMapId": 1547,
+      "X": 589.07,
+      "Y": -31.41,
+      "Z": 264.24
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1547,
+      "X": -29.54,
+      "Y": -217.21,
+      "Z": 442.83
+    },
+    {
+      "Name": "book",
+      "TargetMapId": 1547,
+      "X": 17.78,
+      "Y": -220.78,
+      "Z": 443.83
+    },
+    {
+      "Name": "book",
+      "TargetMapId": 1547,
+      "X": 14.03,
+      "Y": -247.35,
+      "Z": 443.82
+    },
+    {
+      "Name": "close",
+      "TargetMapId": 1547,
+      "X": -4.24,
+      "Y": -224.6,
+      "Z": 443.72
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1547,
+      "X": 5.36,
+      "Y": -239.58,
+      "Z": 443.84
+    },
+    {
+      "Name": "talk with both",
+      "TargetMapId": 1547,
+      "X": -24.74,
+      "Y": -210.75,
+      "Z": 442.87
+    }
+  ]
+}

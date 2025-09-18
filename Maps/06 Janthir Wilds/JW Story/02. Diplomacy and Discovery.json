@@ -1,0 +1,94 @@
+{
+  "Name": "02. Diplomacy and Discovery (WARNING ALL OPEN WORLD)",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-02T14:17:46.4976430Z",
+  "StartGameMapId": 1550,
+  "Coordinates": [
+    {
+      "Name": "Poised Arrow",
+      "TargetMapId": 1550,
+      "X": 623.47,
+      "Y": 60.6,
+      "Z": 267.91
+    },
+    {
+      "Name": "Cathe",
+      "TargetMapId": 1550,
+      "X": 950.25,
+      "Y": 346.58,
+      "Z": 114.72
+    },
+    {
+      "Name": "Mist of Dawn",
+      "TargetMapId": 1550,
+      "X": 907.54,
+      "Y": 324.41,
+      "Z": 113.16
+    },
+    {
+      "Name": "After Unlock Spear mastery",
+      "TargetMapId": 1550,
+      "X": 906.92,
+      "Y": 326.81,
+      "Z": 113.16
+    },
+    {
+      "Name": "Malice",
+      "TargetMapId": 1550,
+      "X": 659.89,
+      "Y": 111.74,
+      "Z": 295.68
+    },
+    {
+      "Name": "Talk",
+      "TargetMapId": 1550,
+      "X": 607.92,
+      "Y": -114.62,
+      "Z": 263.5
+    },
+    {
+      "Name": "Sniff & cub",
+      "TargetMapId": 1550,
+      "X": 424.13,
+      "Y": 362.41,
+      "Z": 182.19
+    },
+    {
+      "Name": "Return and talk",
+      "TargetMapId": 1550,
+      "X": 607.14,
+      "Y": -111.8,
+      "Z": 264.12
+    },
+    {
+      "Name": "Talk",
+      "TargetMapId": 1550,
+      "X": 624.52,
+      "Y": 59.74,
+      "Z": 267.99
+    },
+    {
+      "Name": "Talk",
+      "TargetMapId": 1550,
+      "X": 636.99,
+      "Y": -696.73,
+      "Z": 520.51
+    },
+    {
+      "Name": "Talk",
+      "TargetMapId": 1550,
+      "X": 712.34,
+      "Y": -677.93,
+      "Z": 483.75
+    },
+    {
+      "Name": "After rift hunt",
+      "TargetMapId": 1550,
+      "X": 710.95,
+      "Y": -676.78,
+      "Z": 483.69
+    }
+  ]
+}
