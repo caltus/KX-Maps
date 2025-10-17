@@ -1,0 +1,59 @@
+{
+  "Name": "18. A Titanic Undertaking ",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-16T20:49:56.9781080Z",
+  "StartGameMapId": 1574,
+  "Coordinates": [
+    {
+      "Name": "Start @ mistburned after complete bava event",
+      "TargetMapId": 1574,
+      "X": -1229.08,
+      "Y": -33.45,
+      "Z": 115.5
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1574,
+      "X": -1250.33,
+      "Y": -3.05,
+      "Z": 116.46
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1574,
+      "X": -1253.94,
+      "Y": 29.15,
+      "Z": 115.51
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1574,
+      "X": -1253.97,
+      "Y": 44.0,
+      "Z": 115.51
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1574,
+      "X": 572.76,
+      "Y": 26.52,
+      "Z": 318.29
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1574,
+      "X": 656.29,
+      "Y": 65.45,
+      "Z": 337.31
+    },
+    {
+      "Name": "End!",
+      "TargetMapId": 1574,
+      "X": 656.29,
+      "Y": 65.45,
+      "Z": 337.31
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Name": "Trial and Error - Prying in the Priory",
+  "Coordinates": [
+    {
+      "Name": "Extra Clue - Classroom",
+      "X": -602.81,
+      "Y": 791.45,
+      "Z": 175.83
+    },
+    {
+      "Name": "Extra Clue - Sleeping Area",
+      "X": -615.32,
+      "Y": 761.66,
+      "Z": 175.83
+    },
+    {
+      "Name": "Extra Clue - Storage Area",
+      "X": -655.71,
+      "Y": 787.48,
+      "Z": 175.84
+    },
+    {
+      "Name": "Main Clue - Library Book",
+      "X": -619.05,
+      "Y": 812.75,
+      "Z": 175.83
+    },
+    {
+      "Name": "Main Clue - Kitchen Table",
+      "X": -630.83,
+      "Y": 844.98,
+      "Z": 175.84
+    },
+    {
+      "Name": "Main Clue - Lounge Table",
+      "X": -582.85,
+      "Y": 839.61,
+      "Z": 175.84
+    },
+    {
+      "Name": "Extra Clue - Laboratory",
+      "X": -572.14,
+      "Y": 797.27,
+      "Z": 175.83
+    }
+  ]
+}

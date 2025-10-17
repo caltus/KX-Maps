@@ -1,0 +1,535 @@
+{
+  "Name": "19. Salvation's Cost",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-16T22:08:02.1640809Z",
+  "StartGameMapId": 1588,
+  "Coordinates": [
+    {
+      "Name": "Start @ Divinity's Reach after reading the mail",
+      "TargetMapId": 1588,
+      "X": 563.38,
+      "Y": 126.88,
+      "Z": 110.51
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 564.17,
+      "Y": 127.73,
+      "Z": 98.03
+    },
+    {
+      "Name": "touch 2 times",
+      "TargetMapId": 1588,
+      "X": 560.09,
+      "Y": 127.1,
+      "Z": 97.79
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 561.95,
+      "Y": 121.96,
+      "Z": 97.61
+    },
+    {
+      "Name": "touch 2 times",
+      "TargetMapId": 1588,
+      "X": 548.98,
+      "Y": 114.46,
+      "Z": 97.48
+    },
+    {
+      "Name": "Brisban Wildlands port touch 2 times",
+      "TargetMapId": 1588,
+      "X": 829.77,
+      "Y": 947.66,
+      "Z": 133.39
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 839.06,
+      "Y": 954.22,
+      "Z": 134.99
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 833.25,
+      "Y": 953.4,
+      "Z": 134.24
+    },
+    {
+      "Name": "Queensdale port",
+      "TargetMapId": 1588,
+      "X": 1200.44,
+      "Y": 666.37,
+      "Z": 46.36
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 1203.57,
+      "Y": 668.26,
+      "Z": 46.36
+    },
+    {
+      "Name": "touch",
+      "TargetMapId": 1588,
+      "X": 1206.91,
+      "Y": 672.72,
+      "Z": 46.36
+    },
+    {
+      "Name": "Bava  Nisos port",
+      "TargetMapId": 1588,
+      "X": -670.2,
+      "Y": -13.53,
+      "Z": 119.96
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": 656.59,
+      "Y": 57.31,
+      "Z": 334.57
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": 741.35,
+      "Y": -22.91,
+      "Z": 379.65
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": -459.33,
+      "Y": -803.17,
+      "Z": 439.04
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": -435.17,
+      "Y": -752.23,
+      "Z": 442.57
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": -417.28,
+      "Y": -678.71,
+      "Z": 429.71
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": -381.61,
+      "Y": -762.52,
+      "Z": 429.86
+    },
+    {
+      "Name": "fight",
+      "TargetMapId": 1588,
+      "X": -333.16,
+      "Y": -798.0,
+      "Z": 427.99
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1588,
+      "X": -488.56,
+      "Y": -678.25,
+      "Z": 472.5
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": -488.56,
+      "Y": -678.25,
+      "Z": 472.5
+    },
+    {
+      "Name": "use",
+      "TargetMapId": 1588,
+      "X": -488.23,
+      "Y": -664.3,
+      "Z": 476.66
+    },
+    {
+      "Name": "Lion's Arch port (instance)",
+      "TargetMapId": 1588,
+      "X": 594.4,
+      "Y": 215.46,
+      "Z": 31.67
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1588,
+      "X": 643.08,
+      "Y": 258.6,
+      "Z": 38.96
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 647.02,
+      "Y": 229.41,
+      "Z": 38.42
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 637.9,
+      "Y": 266.59,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 648.54,
+      "Y": 272.18,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 651.09,
+      "Y": 262.46,
+      "Z": 38.39
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 629.1,
+      "Y": 240.14,
+      "Z": 38.39
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 629.19,
+      "Y": 242.68,
+      "Z": 38.39
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 632.76,
+      "Y": 253.05,
+      "Z": 38.41
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 633.94,
+      "Y": 256.41,
+      "Z": 38.39
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 635.11,
+      "Y": 258.19,
+      "Z": 38.41
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 640.07,
+      "Y": 262.18,
+      "Z": 38.4
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 643.16,
+      "Y": 264.05,
+      "Z": 38.4
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 642.39,
+      "Y": 263.6,
+      "Z": 38.4
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 650.95,
+      "Y": 265.81,
+      "Z": 38.39
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 656.84,
+      "Y": 265.23,
+      "Z": 38.4
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 654.25,
+      "Y": 264.95,
+      "Z": 38.41
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 662.66,
+      "Y": 263.4,
+      "Z": 38.41
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 667.58,
+      "Y": 260.12,
+      "Z": 38.41
+    },
+    {
+      "Name": "sample",
+      "TargetMapId": 1588,
+      "X": 665.3,
+      "Y": 261.12,
+      "Z": 38.39
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1588,
+      "X": 692.7,
+      "Y": 187.22,
+      "Z": 35.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 689.74,
+      "Y": 183.33,
+      "Z": 35.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 690.9,
+      "Y": 194.74,
+      "Z": 35.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 687.14,
+      "Y": 195.4,
+      "Z": 35.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 670.49,
+      "Y": 183.67,
+      "Z": 35.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 662.07,
+      "Y": 185.61,
+      "Z": 35.63
+    },
+    {
+      "Name": "talk ",
+      "TargetMapId": 1588,
+      "X": 656.91,
+      "Y": 182.17,
+      "Z": 36.65
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 645.58,
+      "Y": 191.63,
+      "Z": 35.63
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 639.25,
+      "Y": 198.29,
+      "Z": 35.63
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 653.11,
+      "Y": 203.36,
+      "Z": 35.63
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 653.97,
+      "Y": 205.92,
+      "Z": 35.63
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 643.57,
+      "Y": 216.0,
+      "Z": 38.64
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 643.51,
+      "Y": 223.62,
+      "Z": 40.2
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 651.56,
+      "Y": 221.23,
+      "Z": 38.62
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 648.54,
+      "Y": 215.97,
+      "Z": 38.64
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 658.73,
+      "Y": 228.16,
+      "Z": 38.39
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 665.52,
+      "Y": 245.36,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 661.95,
+      "Y": 245.75,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 647.82,
+      "Y": 248.95,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 644.59,
+      "Y": 252.29,
+      "Z": 38.4
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 643.53,
+      "Y": 246.31,
+      "Z": 38.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 639.44,
+      "Y": 234.79,
+      "Z": 38.42
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 631.03,
+      "Y": 188.83,
+      "Z": 38.64
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 628.69,
+      "Y": 210.93,
+      "Z": 38.64
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 640.38,
+      "Y": 159.97,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 635.28,
+      "Y": 158.41,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 631.72,
+      "Y": 164.14,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 636.82,
+      "Y": 167.39,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 627.1,
+      "Y": 152.59,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 623.55,
+      "Y": 159.02,
+      "Z": 38.92
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 636.99,
+      "Y": 153.51,
+      "Z": 38.89
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1588,
+      "X": 615.11,
+      "Y": 151.73,
+      "Z": 82.49
+    },
+    {
+      "Name": "END",
+      "TargetMapId": 1588,
+      "X": 590.58,
+      "Y": 214.34,
+      "Z": 30.72
+    }
+  ]
+}

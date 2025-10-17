@@ -1,0 +1,150 @@
+{
+  "Name": "14. Into the Valley of Shadow",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-15T03:12:15.8759062Z",
+  "StartGameMapId": 1575,
+  "Coordinates": [
+    {
+      "Name": "Start @ Janthnir Syntri",
+      "TargetMapId": 1575,
+      "X": 144.21,
+      "Y": 880.82,
+      "Z": 0.46
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": 142.32,
+      "Y": 895.28,
+      "Z": 0.14
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1152.39,
+      "Y": -69.62,
+      "Z": 101.66
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1157.22,
+      "Y": -17.85,
+      "Z": 101.68
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1234.46,
+      "Y": 5.55,
+      "Z": 117.34
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1235.37,
+      "Y": -42.26,
+      "Z": 115.5
+    },
+    {
+      "Name": "exit",
+      "TargetMapId": 1575,
+      "X": -1154.24,
+      "Y": -121.1,
+      "Z": 90.36
+    },
+    {
+      "Name": ".port",
+      "TargetMapId": 1575,
+      "X": -1203.73,
+      "Y": -0.66,
+      "Z": 117.13
+    },
+    {
+      "Name": ".port",
+      "TargetMapId": 1575,
+      "X": -1153.05,
+      "Y": 112.83,
+      "Z": 90.18
+    },
+    {
+      "Name": ".port",
+      "TargetMapId": 1575,
+      "X": -728.51,
+      "Y": 375.07,
+      "Z": 106.33
+    },
+    {
+      "Name": ".port",
+      "TargetMapId": 1575,
+      "X": -578.65,
+      "Y": 365.64,
+      "Z": 109.41
+    },
+    {
+      "Name": "Mursaat Mirror after mastery done",
+      "TargetMapId": 1575,
+      "X": -577.0,
+      "Y": 365.25,
+      "Z": 110.02
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -548.58,
+      "Y": 438.43,
+      "Z": 232.63
+    },
+    {
+      "Name": "radio in",
+      "TargetMapId": 1575,
+      "X": -531.05,
+      "Y": 452.57,
+      "Z": 232.38
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1151.64,
+      "Y": 89.73,
+      "Z": 97.09
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1143.6,
+      "Y": 212.98,
+      "Z": 83.69
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": 1575,
+      "X": -1190.38,
+      "Y": 208.1,
+      "Z": 84.54
+    },
+    {
+      "Name": "follow",
+      "TargetMapId": 1575,
+      "X": -1150.44,
+      "Y": 236.2,
+      "Z": 82.92
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1575,
+      "X": -354.14,
+      "Y": 475.74,
+      "Z": 1.68
+    },
+    {
+      "Name": "end",
+      "TargetMapId": 1575,
+      "X": -345.09,
+      "Y": 477.97,
+      "Z": 1.67
+    }
+  ]
+}

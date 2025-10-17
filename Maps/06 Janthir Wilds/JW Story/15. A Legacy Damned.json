@@ -1,0 +1,185 @@
+{
+  "Name": "15. A Legacy Damned",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-15T04:07:48.4915866Z",
+  "StartGameMapId": 1575,
+  "Coordinates": [
+    {
+      "Name": "Start @ Mistburned Barrens",
+      "TargetMapId": 1575,
+      "X": -1052.82,
+      "Y": -1.77,
+      "Z": 94.36
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1231.32,
+      "Y": -3.59,
+      "Z": 117.5
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1575,
+      "X": -1229.76,
+      "Y": -5.18,
+      "Z": 116.45
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1575,
+      "X": -1254.19,
+      "Y": -4.9,
+      "Z": 116.46
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1575,
+      "X": -1253.94,
+      "Y": 3.1,
+      "Z": 116.46
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1575,
+      "X": -1204.66,
+      "Y": -6.01,
+      "Z": 117.13
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1165.67,
+      "Y": -59.04,
+      "Z": 102.77
+    },
+    {
+      "Name": "exit",
+      "TargetMapId": 1575,
+      "X": -1123.85,
+      "Y": 5.77,
+      "Z": 102.56
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -536.45,
+      "Y": -728.5,
+      "Z": 149.09
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -563.67,
+      "Y": -726.48,
+      "Z": 122.62
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -567.04,
+      "Y": -732.75,
+      "Z": 124.59
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -690.91,
+      "Y": -250.66,
+      "Z": 92.24
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -878.1,
+      "Y": -369.37,
+      "Z": 76.22
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -872.38,
+      "Y": -377.38,
+      "Z": 77.73
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1178.87,
+      "Y": -376.59,
+      "Z": 57.78
+    },
+    {
+      "Name": "enter instance",
+      "TargetMapId": 1575,
+      "X": -1209.7,
+      "Y": -494.41,
+      "Z": 53.56
+    },
+    {
+      "Name": "port after killing the ghost",
+      "TargetMapId": 1575,
+      "X": -1051.24,
+      "Y": -682.0,
+      "Z": 1.23
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -1029.17,
+      "Y": -671.62,
+      "Z": -0.31
+    },
+    {
+      "Name": "port after drama end by npc",
+      "TargetMapId": 1575,
+      "X": -1014.46,
+      "Y": -800.9,
+      "Z": -0.34
+    },
+    {
+      "Name": "port and use heart",
+      "TargetMapId": 1575,
+      "X": -850.88,
+      "Y": -770.41,
+      "Z": 24.66
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1575,
+      "X": -763.61,
+      "Y": -769.67,
+      "Z": 10.11
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": 1575,
+      "X": -764.99,
+      "Y": -774.34,
+      "Z": 10.1
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": 1575,
+      "X": -1205.54,
+      "Y": -658.91,
+      "Z": 1.09
+    },
+    {
+      "Name": "achievement",
+      "TargetMapId": 1575,
+      "X": -1020.69,
+      "Y": -841.6,
+      "Z": -0.33
+    },
+    {
+      "Name": "eend",
+      "TargetMapId": 1575,
+      "X": -895.94,
+      "Y": -760.08,
+      "Z": 24.84
+    }
+  ]
+}

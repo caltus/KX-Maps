@@ -1,0 +1,48 @@
+{
+  "Name": "Inner Nayos Mastery Points",
+  "Author": "Severus",
+  "Coordinates": [
+    {
+      "Name": "Inner Nayos Insight: Lost Altar",
+      "X": 247.75,
+      "Y": -669.54,
+      "Z": 426.69
+    },
+    {
+      "Name": "Inner Nayos Insight: Memory's Hollow",
+      "X": 1009.4,
+      "Y": -612.74,
+      "Z": 420.32
+    },
+    {
+      "Name": "Inner Nayos Insight: Deep Falls",
+      "X": 1075.91,
+      "Y": -35.34,
+      "Z": 188.39
+    },
+    {
+      "Name": "Inner Nayos Insight: Heitor's Gate (NEED EVENT - Road to Heitor Meta Event)",
+      "X": 751.32,
+      "Y": 302.18,
+      "Z": 233.89
+    },
+    {
+      "Name": "Inner Nayos Insight: Abyssal Edge",
+      "X": 1277.6,
+      "Y": 498.54,
+      "Z": 376.17
+    },
+    {
+      "Name": "Inner Nayos Insight: Southern Extractor",
+      "X": 1143.87,
+      "Y": 182.72,
+      "Z": 456.71
+    },
+    {
+      "Name": "Inner Nayos Insight: Mourning's Shade",
+      "X": 946.77,
+      "Y": 669.91,
+      "Z": 412.32
+    }
+  ]
+}

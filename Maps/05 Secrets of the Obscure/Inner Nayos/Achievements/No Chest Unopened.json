@@ -1,0 +1,65 @@
+{
+  "Name": "No Chest Unopened",
+  "Coordinates": [
+    {
+      "Name": "1—Mourning's Shade",
+      "X": 536.94,
+      "Y": 501.25,
+      "Z": 345.31
+    },
+    {
+      "Name": "2—Heitor's Gate",
+      "X": 684.2,
+      "Y": 179.16,
+      "Z": 281.73
+    },
+    {
+      "Name": "3—The Southern Extractor",
+      "X": 1205.55,
+      "Y": 210.09,
+      "Z": 214.72
+    },
+    {
+      "Name": "4—Heitor's Maw",
+      "X": 1007.21,
+      "Y": -55.75,
+      "Z": 234.15
+    },
+    {
+      "Name": "5—Seething Embrace",
+      "X": 772.58,
+      "Y": -145.27,
+      "Z": 243.49
+    },
+    {
+      "Name": "6—Mere of Everlasting Night",
+      "X": 700.08,
+      "Y": -285.19,
+      "Z": 246.91
+    },
+    {
+      "Name": "7—The Forgotten Path",
+      "X": 149.69,
+      "Y": -603.8,
+      "Z": 331.26
+    },
+    {
+      "Name": "8—Astral Ward Camp",
+      "X": 740.33,
+      "Y": -557.38,
+      "Z": 306.01
+    },
+    {
+      "Name": "9—Mere of Everlasting Night",
+      "X": 860.69,
+      "Y": -442.57,
+      "Z": 254.16
+    },
+    {
+      "Name": "10—Hollow of the Covetous",
+      "X": 1133.6,
+      "Y": -327.75,
+      "Z": 353.49
+    }
+  ]
+}

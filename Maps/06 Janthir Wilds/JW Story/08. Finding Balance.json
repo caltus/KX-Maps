@@ -1,0 +1,577 @@
+{
+  "Name": "8. Finding Balance",
+  "FormatVersion": "KX-TP-v2",
+  "CreatedWithTool": "KX Trainer V2 - v3.1.1",
+  "Author": "tarusinner",
+  "LastUpdated": "2025-08-10T22:11:11.3000453Z",
+  "StartGameMapId": 1545,
+  "Coordinates": [
+    {
+      "Name": "Lowland Start",
+      "TargetMapId": 1545,
+      "X": 636.87,
+      "Y": -696.27,
+      "Z": 520.51
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 646.43,
+      "Y": -667.11,
+      "Z": 534.23
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 629.56,
+      "Y": 58.95,
+      "Z": 267.82
+    },
+    {
+      "Name": "Janthri Syntri",
+      "TargetMapId": 1545,
+      "X": 279.28,
+      "Y": 543.54,
+      "Z": 6.71
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 268.34,
+      "Y": 449.61,
+      "Z": 11.6
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 435.8,
+      "Y": 382.73,
+      "Z": 19.75
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 526.3,
+      "Y": 374.32,
+      "Z": 22.18
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 357.56,
+      "Y": 451.35,
+      "Z": 50.08
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 248.21,
+      "Y": 400.75,
+      "Z": 4.71
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 334.71,
+      "Y": 305.29,
+      "Z": 16.42
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": 432.14,
+      "Y": 205.56,
+      "Z": 6.49
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -535.18,
+      "Y": -448.98,
+      "Z": 57.03
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -512.87,
+      "Y": -324.59,
+      "Z": 74.57
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -580.51,
+      "Y": -170.89,
+      "Z": 129.73
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -744.27,
+      "Y": -196.34,
+      "Z": 97.08
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -695.64,
+      "Y": -239.59,
+      "Z": 116.68
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -730.09,
+      "Y": -34.41,
+      "Z": 77.71
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -871.32,
+      "Y": -126.22,
+      "Z": 80.45
+    },
+    {
+      "Name": "hiding animal",
+      "TargetMapId": 1545,
+      "X": -938.8,
+      "Y": -237.99,
+      "Z": 116.92
+    },
+    {
+      "Name": "Return to homestead port",
+      "TargetMapId": 1545,
+      "X": 174.44,
+      "Y": -117.31,
+      "Z": 18.76
+    },
+    {
+      "Name": "water bucket",
+      "TargetMapId": 1545,
+      "X": 224.4,
+      "Y": -162.78,
+      "Z": 19.0
+    },
+    {
+      "Name": "water",
+      "TargetMapId": 1545,
+      "X": 177.45,
+      "Y": -199.39,
+      "Z": 15.62
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 244.56,
+      "Y": -181.61,
+      "Z": 18.76
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 249.43,
+      "Y": -184.03,
+      "Z": 18.78
+    },
+    {
+      "Name": "water",
+      "TargetMapId": 1545,
+      "X": 181.42,
+      "Y": -204.93,
+      "Z": 16.12
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 249.63,
+      "Y": -190.17,
+      "Z": 18.76
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 255.09,
+      "Y": -187.76,
+      "Z": 18.76
+    },
+    {
+      "Name": "medicine",
+      "TargetMapId": 1545,
+      "X": 253.09,
+      "Y": -151.83,
+      "Z": 18.97
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 238.05,
+      "Y": -111.59,
+      "Z": 18.74
+    },
+    {
+      "Name": "medicine",
+      "TargetMapId": 1545,
+      "X": 251.4,
+      "Y": -151.86,
+      "Z": 18.9
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 261.59,
+      "Y": -86.86,
+      "Z": 18.76
+    },
+    {
+      "Name": "medicine",
+      "TargetMapId": 1545,
+      "X": 251.4,
+      "Y": -151.86,
+      "Z": 18.9
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 263.0,
+      "Y": -108.93,
+      "Z": 18.76
+    },
+    {
+      "Name": "medicine",
+      "TargetMapId": 1545,
+      "X": 247.87,
+      "Y": -151.86,
+      "Z": 18.96
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 274.57,
+      "Y": -139.82,
+      "Z": 18.74
+    },
+    {
+      "Name": "apple",
+      "TargetMapId": 1545,
+      "X": 254.09,
+      "Y": -133.48,
+      "Z": 18.89
+    },
+    {
+      "Name": "food",
+      "TargetMapId": 1545,
+      "X": 258.13,
+      "Y": -133.65,
+      "Z": 18.97
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 286.88,
+      "Y": -125.65,
+      "Z": 18.74
+    },
+    {
+      "Name": "apple",
+      "TargetMapId": 1545,
+      "X": 252.45,
+      "Y": -132.41,
+      "Z": 18.82
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 270.63,
+      "Y": -111.63,
+      "Z": 18.74
+    },
+    {
+      "Name": "food",
+      "TargetMapId": 1545,
+      "X": 252.47,
+      "Y": -132.59,
+      "Z": 18.82
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 244.06,
+      "Y": -134.93,
+      "Z": 18.74
+    },
+    {
+      "Name": "water bucket",
+      "TargetMapId": 1545,
+      "X": 255.18,
+      "Y": -133.4,
+      "Z": 18.96
+    },
+    {
+      "Name": "water trough",
+      "TargetMapId": 1545,
+      "X": 280.43,
+      "Y": -110.47,
+      "Z": 18.74
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 246.15,
+      "Y": -116.59,
+      "Z": 18.74
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 229.53,
+      "Y": -88.45,
+      "Z": 18.74
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 245.66,
+      "Y": -70.14,
+      "Z": 18.74
+    },
+    {
+      "Name": "water though",
+      "TargetMapId": 1545,
+      "X": 279.82,
+      "Y": -110.88,
+      "Z": 18.75
+    },
+    {
+      "Name": "animal",
+      "TargetMapId": 1545,
+      "X": 282.04,
+      "Y": -138.14,
+      "Z": 18.75
+    },
+    {
+      "Name": "plant fertilizier",
+      "TargetMapId": 1545,
+      "X": 257.81,
+      "Y": -154.51,
+      "Z": 19.0
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 250.32,
+      "Y": -177.29,
+      "Z": 18.87
+    },
+    {
+      "Name": "plant fertilizier",
+      "TargetMapId": 1545,
+      "X": 257.76,
+      "Y": -152.51,
+      "Z": 18.99
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 255.94,
+      "Y": -181.01,
+      "Z": 19.0
+    },
+    {
+      "Name": "plant fertilizier",
+      "TargetMapId": 1545,
+      "X": 259.29,
+      "Y": -155.46,
+      "Z": 18.96
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 245.99,
+      "Y": -189.42,
+      "Z": 18.74
+    },
+    {
+      "Name": "plant fertilizier",
+      "TargetMapId": 1545,
+      "X": 259.29,
+      "Y": -155.46,
+      "Z": 18.97
+    },
+    {
+      "Name": "plant",
+      "TargetMapId": 1545,
+      "X": 238.95,
+      "Y": -185.79,
+      "Z": 18.74
+    },
+    {
+      "Name": "exit",
+      "TargetMapId": 1545,
+      "X": 146.31,
+      "Y": -102.65,
+      "Z": 18.83
+    },
+    {
+      "Name": "After doing event",
+      "TargetMapId": 1545,
+      "X": -353.87,
+      "Y": -272.47,
+      "Z": 35.43
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -392.52,
+      "Y": -260.99,
+      "Z": 35.3
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -312.13,
+      "Y": -199.74,
+      "Z": 37.26
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -339.46,
+      "Y": -197.0,
+      "Z": 36.12
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -318.59,
+      "Y": -201.2,
+      "Z": 36.81
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -235.43,
+      "Y": -257.52,
+      "Z": 1.39
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -219.92,
+      "Y": -234.54,
+      "Z": 0.35
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -236.47,
+      "Y": -256.39,
+      "Z": 1.63
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -171.65,
+      "Y": -193.6,
+      "Z": -0.08
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -195.49,
+      "Y": -189.12,
+      "Z": 0.22
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -173.16,
+      "Y": -191.15,
+      "Z": -0.07
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -221.14,
+      "Y": -112.06,
+      "Z": 5.1
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -234.69,
+      "Y": -133.92,
+      "Z": 0.84
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -213.2,
+      "Y": -114.83,
+      "Z": 3.0
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -78.31,
+      "Y": -164.9,
+      "Z": 5.35
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -111.54,
+      "Y": -169.53,
+      "Z": 1.93
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -86.78,
+      "Y": -160.81,
+      "Z": 4.62
+    },
+    {
+      "Name": "channel",
+      "TargetMapId": 1545,
+      "X": -108.37,
+      "Y": -259.72,
+      "Z": 13.85
+    },
+    {
+      "Name": "shield",
+      "TargetMapId": 1545,
+      "X": -122.98,
+      "Y": -243.84,
+      "Z": 2.54
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -109.69,
+      "Y": -263.21,
+      "Z": 15.28
+    },
+    {
+      "Name": "port",
+      "TargetMapId": 1545,
+      "X": -389.71,
+      "Y": -266.58,
+      "Z": 35.41
+    },
+    {
+      "Name": "talk",
+      "TargetMapId": 1545,
+      "X": -391.14,
+      "Y": -264.81,
+      "Z": 35.35
+    },
+    {
+      "Name": "end",
+      "TargetMapId": 1545,
+      "X": -391.14,
+      "Y": -264.81,
+      "Z": 35.35
+    }
+  ]
+}
